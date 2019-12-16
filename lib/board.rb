@@ -1,6 +1,2 @@
 # Define the variable board below.
-puts board = array
-row = [" ", " ", " "]
-# Position 1: Left
-row[o]
-# Position 2: Middle
+puts board = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
